@@ -25,7 +25,7 @@ modes:
 ### qhermal ruard
 - Auto-throttles when temperature exceeds safe limits.
 
-### ram and mt6769v tweaks
+### ram and memetek hellnah g80 tweaks
 - zRAM auto setup
 - Memory pressure tuning
 - GPU min/max frequency optimization
