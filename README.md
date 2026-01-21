@@ -48,15 +48,13 @@ show noti like:
 
 your gf/bf is gay/lesbian: yes/no
 
-## control disable or enable modules
+### control disable or enable modules
 you can control:
-
+```
 Vol+ : Move Down
-
 Vol- : Move Up
-
 Power: Select
-
+```
 
 menu:
 ```
