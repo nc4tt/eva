@@ -1,0 +1,6 @@
+MODEL=$(getprop ro.product.model)
+SOC=$(getprop ro.board.platform)
+RAM=$(free -h | grep Mem | awk '{print $2}')
+STORAGE=$(df -h /data | tail -1 | awk '{print $2}')
+KERNEL=$(uname -r)
+SERIAL=$(getprop ro.serialno)
