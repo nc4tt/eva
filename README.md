@@ -82,14 +82,14 @@ eva/
 ├── service.sh
 ├── action.sh
 └── common/
-├── eva.sh
-├── safe_oc.sh
-├── high_oc.sh
-├── thermal_guard.sh
-├── ram_gpu_tweaks.sh
-├── bootloop_guard.sh
-├── state.sh
-└── info.sh
+      ├── eva.sh
+      ├── safe_oc.sh
+      ├── high_oc.sh
+      ├── thermal_guard.sh
+      ├── ram_gpu_tweaks.sh
+      ├── bootloop_guard.sh
+      ├── state.sh
+      └── info.sh
 ```
 
 ---
