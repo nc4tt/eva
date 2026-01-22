@@ -9,7 +9,7 @@ CHOICE=1
 
 # Display menu
 ui_print "===================================="
-ui_print "        eva controler    "
+ui_print "        eva controller    "
 ui_print "===================================="
 ui_print "Model   : $MODEL"
 ui_print "SoC     : $SOC"
